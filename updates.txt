@@ -1,0 +1,18 @@
+-------------------------------------------------
+Day 1: 1/8/2025
+
+What did I do?
+Research about League API
+
+Thoughts?
+I want to mostly do stuff around champions and items as opposed to summoners
+Not a bad start, mostly trying to understand how everything works
+My naming is very terrible
+
+Expectations for this project:
+-Mostly play around with data. 
+-I want to mostly focus on champion data
+-I want to mostly look into combos and dmg done and the effects with items
+-I want to figure out the math behind the game and any optimizations that can be done
+-Champion stats in the game are probably going to be a second thought
+-Maybe in the future movement speed math??
