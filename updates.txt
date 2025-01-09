@@ -1,4 +1,15 @@
 -------------------------------------------------
+Day 2: 1/9/2025
+What did I do?
+Created a class for champion Data
+Trying to figure out what parts are useful and what parts are not useful 
+
+Thoughts?
+I am realizing that it is becoming more and more complicated now that I am thinking about this 
+application
+Need to consider HP, Runes ticking, Time, item and time etc..
+I think it is better for simplicity to stick to 1 v 1 pure laning. 
+-------------------------------------------------
 Day 1: 1/8/2025
 
 What did I do?

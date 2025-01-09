@@ -1,6 +1,8 @@
+# App Entry point
+
 from config import API_KEY, champion, champion_json
 import json
-from readable_json import champ_stats_readable
+from champion_data import ChampData
 import urllib.request, json 
 
 with urllib.request.urlopen(champion) as url:
@@ -26,11 +28,11 @@ spells : Spells and tooltips -> Useful
 passive : Indicator on hover
 recommended : Empty
 """
-test_field = "recommended"
 datatum = data["data"]["Katarina"]
 # print(datatum)
 
-champ_stats_readable(datatum)
+champion = ChampData(datatum)
+champion.champ_spell()
 # for i in datatum:
 #     print(datatum[i])
 
